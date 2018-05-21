@@ -12,7 +12,7 @@ Config.EnableNonFreemodePeds      = false -- turn this on if you want custom ped
 Config.EnableSocietyOwnedVehicles = false
 Config.EnableLicenses             = false
 Config.MaxInService               = -1
-Config.Locale                     = 'fr'
+Config.Locale                     = 'pt'
 
 Config.FibStations = {
 
